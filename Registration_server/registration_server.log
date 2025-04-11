@@ -1,0 +1,152 @@
+2025-01-21 23:41:44,396 - app - INFO - Starting Flask application
+2025-01-21 23:43:57,011 - app - INFO - Starting Flask application
+2025-01-22 18:56:35,006 - app - INFO - Starting Flask application
+2025-01-22 19:03:26,398 - app - INFO - Starting Flask application
+2025-01-22 19:17:20,682 - app - INFO - Starting Flask application
+2025-01-22 19:19:40,536 - app - INFO - Starting Flask application
+2025-01-22 19:30:44,288 - app - INFO - Starting Flask application
+2025-01-22 19:41:46,868 - app - INFO - Starting Flask application
+2025-01-22 19:43:46,250 - app - INFO - Starting Flask application
+2025-01-22 19:59:39,767 - app - INFO - Starting Flask application
+2025-01-22 20:00:08,826 - app - INFO - Starting Flask application
+2025-01-22 20:01:13,941 - app - INFO - Starting Flask application
+2025-01-22 20:02:07,493 - app - INFO - Starting Flask application
+2025-01-22 20:02:30,043 - app - INFO - Starting Flask application
+2025-01-22 20:02:57,084 - app - INFO - Starting Flask application
+2025-01-22 20:13:56,523 - app - INFO - Starting Flask application
+2025-01-22 20:13:56,562 - app.register - INFO - Registration Center initialized
+2025-01-22 20:13:56,639 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-22 20:13:56,639 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-22 20:13:56,640 - werkzeug - INFO -  * Restarting with stat
+2025-01-22 20:13:57,128 - app - INFO - Starting Flask application
+2025-01-22 20:13:57,166 - app.register - INFO - Registration Center initialized
+2025-01-22 20:13:57,204 - werkzeug - WARNING -  * Debugger is active!
+2025-01-22 20:13:57,209 - werkzeug - INFO -  * Debugger PIN: 747-287-019
+2025-01-22 20:14:08,069 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2025 20:14:08] "[33mGET / HTTP/1.1[0m" 404 -
+2025-01-22 20:14:08,070 - werkzeug - ERROR - 127.0.0.1 - - [22/Jan/2025 20:14:08] code 400, message Bad request version ('\x19Np·ð|ãON\x00')
+2025-01-22 20:14:08,071 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2025 20:14:08] "[31m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03\x83Ûª@/ÂÏ\x9d¨J(\x069­\x05Ï\x91\x9dLF\x92È}Ú¼w¹¾Ú@"þ ¨Ó\x8d3r¤Ý?¥Ø\x07\x11kI»\x00²ÁÚnù¸\x1f\x19Np·ð|ãON\x00 [0m" 400 -
+2025-01-22 20:14:08,073 - werkzeug - ERROR - 127.0.0.1 - - [22/Jan/2025 20:14:08] code 400, message Bad request version ('_§5CâÄ6¹¤m)ÄKé-ßÂÔ\x92i\x8bOK\x00ÝÙ')
+2025-01-22 20:14:08,074 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2025 20:14:08] "[31m[1m\x16\x03\x01\x06à\x01\x00\x06Ü\x03\x03\x87BÖ±µµ\x19\x9cèÿü\x03RÆ\x1b2\x9d*|]8êºGJ\x97X¥lÍ´& õË\x95ñDï\x87\x81;®ÍA\x1dÝ\x19\x95\x92;,!Ö=¯Zù«K$\x09\x0e>T\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06sÚÚ\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00þ\x0d\x00ú\x00\x00\x01\x00\x01Í\x00 {\x95\x12¾±1ÕB7¬\x984XÈV6\x0e0®^ãl\x0b#\x90ÀpèBh,s\x00Ðýêâ/îõbÍ!\x98T\x8cBlæ÷\x09f\x0d1\x8c\x09ùuÖÔ\x90Ã³¨~ªâfµw£\x01ÿ\x8crÊ[¸Ô6\x9aüÑ\x0b_§5CâÄ6¹¤m)ÄKé-ßÂÔ\x92i\x8bOK\x00ÝÙ[0m" 400 -
+2025-01-22 20:14:08,103 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2025 20:14:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-22 20:14:31,085 - werkzeug - INFO - 127.0.0.1 - - [22/Jan/2025 20:14:31] "GET /health HTTP/1.1" 200 -
+2025-01-22 20:24:16,815 - app - INFO - Starting Flask application
+2025-01-22 20:24:16,860 - app.register - INFO - Registration Center initialized
+2025-01-22 20:24:16,916 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-22 20:24:16,916 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-22 20:24:16,918 - werkzeug - INFO -  * Restarting with stat
+2025-01-22 20:24:17,433 - app - INFO - Starting Flask application
+2025-01-22 20:24:17,483 - app.register - INFO - Registration Center initialized
+2025-01-22 20:24:17,608 - werkzeug - WARNING -  * Debugger is active!
+2025-01-22 20:24:17,611 - werkzeug - INFO -  * Debugger PIN: 747-287-019
+2025-04-08 23:20:42,842 - app - INFO - Starting Flask application
+2025-04-08 23:20:42,901 - app.register - INFO - Registration Center initialized
+2025-04-09 00:04:03,461 - app - INFO - Starting Flask application
+2025-04-09 00:04:03,513 - app.register - INFO - Registration Center initialized
+2025-04-09 00:04:03,593 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-09 00:04:03,593 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-09 00:04:03,595 - werkzeug - INFO -  * Restarting with stat
+2025-04-09 00:04:04,152 - app - INFO - Starting Flask application
+2025-04-09 00:04:04,191 - app.register - INFO - Registration Center initialized
+2025-04-09 00:04:04,233 - werkzeug - WARNING -  * Debugger is active!
+2025-04-09 00:04:04,240 - werkzeug - INFO -  * Debugger PIN: 747-287-019
+2025-04-09 00:12:38,567 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 00:12:38] "[33mGET / HTTP/1.1[0m" 404 -
+2025-04-09 00:12:38,609 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 00:12:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-09 00:12:49,257 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 00:12:49] "GET /ping HTTP/1.1" 200 -
+2025-04-09 00:13:09,065 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2025 00:13:09] "GET /health HTTP/1.1" 200 -
+2025-04-09 01:48:53,348 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sanda\\Desktop\\dev\\project\\Protocol\\implementaation\\Registration_server\\app\\__init__.py', reloading
+2025-04-09 01:48:53,509 - werkzeug - INFO -  * Restarting with stat
+2025-04-09 01:48:54,342 - app - INFO - Starting Flask application
+2025-04-09 01:48:54,396 - app.register - INFO - Registration Center initialized
+2025-04-09 01:48:54,457 - werkzeug - WARNING -  * Debugger is active!
+2025-04-09 01:48:54,464 - werkzeug - INFO -  * Debugger PIN: 747-287-019
+2025-04-10 20:39:08,003 - app - INFO - Starting Flask application
+2025-04-10 20:39:08,057 - app.register - INFO - Registration Center initialized
+2025-04-10 22:18:31,258 - app - INFO - Starting Flask application
+2025-04-10 22:18:31,313 - app.register - INFO - Registration Center initialized
+2025-04-10 22:18:31,448 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 22:18:31,448 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 22:18:31,450 - werkzeug - INFO -  * Restarting with stat
+2025-04-10 22:18:32,317 - app - INFO - Starting Flask application
+2025-04-10 22:18:32,370 - app.register - INFO - Registration Center initialized
+2025-04-10 22:18:32,944 - werkzeug - WARNING -  * Debugger is active!
+2025-04-10 22:18:32,957 - werkzeug - INFO -  * Debugger PIN: 747-287-019
+2025-04-10 22:37:14,055 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 22:37:14] "[31m[1mPOST /api/v1/register/user HTTP/1.1[0m" 401 -
+2025-04-10 22:38:48,853 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 22:38:48] "[31m[1mPOST /api/v1/register/user HTTP/1.1[0m" 401 -
+2025-04-10 22:40:03,889 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 22:40:03] "[31m[1mPOST /api/v1/register/user HTTP/1.1[0m" 401 -
+2025-04-10 22:41:10,113 - app - INFO - Starting Flask application
+2025-04-10 22:41:10,164 - app.register - INFO - Registration Center initialized
+2025-04-10 22:41:10,227 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 22:41:10,227 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 22:41:10,229 - werkzeug - INFO -  * Restarting with stat
+2025-04-10 22:41:10,756 - app - INFO - Starting Flask application
+2025-04-10 22:41:10,794 - app.register - INFO - Registration Center initialized
+2025-04-10 22:41:10,843 - werkzeug - WARNING -  * Debugger is active!
+2025-04-10 22:41:10,850 - werkzeug - INFO -  * Debugger PIN: 747-287-019
+2025-04-10 22:41:19,357 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 22:41:19] "[35m[1mPOST /api/v1/register/user HTTP/1.1[0m" 500 -
+2025-04-10 22:45:27,063 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sanda\\Desktop\\dev\\project\\Protocol\\implementaation\\Registration_server\\app\\routes.py', reloading
+2025-04-10 22:45:27,139 - werkzeug - INFO -  * Restarting with stat
+2025-04-10 22:45:27,847 - app - INFO - Starting Flask application
+2025-04-10 22:45:27,888 - app.register - INFO - Registration Center initialized
+2025-04-10 22:45:27,952 - werkzeug - WARNING -  * Debugger is active!
+2025-04-10 22:45:27,959 - werkzeug - INFO -  * Debugger PIN: 747-287-019
+2025-04-10 22:45:35,555 - app - INFO - Starting Flask application
+2025-04-10 22:45:35,595 - app.register - INFO - Registration Center initialized
+2025-04-10 22:45:35,665 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-10 22:45:35,665 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-10 22:45:35,667 - werkzeug - INFO -  * Restarting with stat
+2025-04-10 22:45:36,211 - app - INFO - Starting Flask application
+2025-04-10 22:45:36,250 - app.register - INFO - Registration Center initialized
+2025-04-10 22:45:36,287 - werkzeug - WARNING -  * Debugger is active!
+2025-04-10 22:45:36,293 - werkzeug - INFO -  * Debugger PIN: 747-287-019
+2025-04-10 22:46:00,613 - app.routes - ERROR - Error in user registration endpoint: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2025-04-10 22:46:00,613 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 22:46:00] "[35m[1mPOST /api/v1/register/user HTTP/1.1[0m" 500 -
+2025-04-10 22:48:59,921 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sanda\\Desktop\\dev\\project\\Protocol\\implementaation\\Registration_server\\app\\routes.py', reloading
+2025-04-10 22:48:59,997 - werkzeug - INFO -  * Restarting with stat
+2025-04-10 22:49:00,756 - app - INFO - Starting Flask application
+2025-04-10 22:49:00,797 - app.register - INFO - Registration Center initialized
+2025-04-10 22:49:00,870 - werkzeug - WARNING -  * Debugger is active!
+2025-04-10 22:49:00,877 - werkzeug - INFO -  * Debugger PIN: 747-287-019
+2025-04-10 22:49:09,776 - app.register - ERROR - Error registering user ANHBCLEJNDKJnjdkNNjnjHghbhjbHJBh: can only concatenate str (not "bytes") to str
+2025-04-10 22:49:09,776 - app.routes - ERROR - Error in user registration endpoint: can only concatenate str (not "bytes") to str
+2025-04-10 22:49:09,778 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 22:49:09] "[35m[1mPOST /api/v1/register/user HTTP/1.1[0m" 500 -
+2025-04-10 22:51:00,269 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sanda\\Desktop\\dev\\project\\Protocol\\implementaation\\Registration_server\\app\\register.py', reloading
+2025-04-10 22:51:00,344 - werkzeug - INFO -  * Restarting with stat
+2025-04-10 22:51:01,066 - app - INFO - Starting Flask application
+2025-04-10 22:51:01,105 - app.register - INFO - Registration Center initialized
+2025-04-10 22:51:01,159 - werkzeug - WARNING -  * Debugger is active!
+2025-04-10 22:51:01,166 - werkzeug - INFO -  * Debugger PIN: 747-287-019
+2025-04-10 22:51:54,205 - app.register - ERROR - Error registering user ANHBCLEJNDKJnjdkNNjnjHghbhjbHJBh: argument 'data': from_buffer() cannot return the address of a unicode object
+2025-04-10 22:51:54,205 - app.routes - ERROR - Error in user registration endpoint: argument 'data': from_buffer() cannot return the address of a unicode object
+2025-04-10 22:51:54,206 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 22:51:54] "[35m[1mPOST /api/v1/register/user HTTP/1.1[0m" 500 -
+2025-04-10 22:55:24,150 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sanda\\Desktop\\dev\\project\\Protocol\\implementaation\\Registration_server\\app\\register.py', reloading
+2025-04-10 22:55:24,248 - werkzeug - INFO -  * Restarting with stat
+2025-04-10 22:55:25,227 - app - INFO - Starting Flask application
+2025-04-10 22:55:25,278 - app.register - INFO - Registration Center initialized
+2025-04-10 22:55:25,328 - werkzeug - WARNING -  * Debugger is active!
+2025-04-10 22:55:25,336 - werkzeug - INFO -  * Debugger PIN: 747-287-019
+2025-04-10 22:55:32,891 - app.register - ERROR - Error registering user ANHBCLEJNDKJnjdkNNjnjHghbhjbHJBh: __init__() got an unexpected keyword argument 'registration_date'
+2025-04-10 22:55:32,891 - app.routes - ERROR - Error in user registration endpoint: __init__() got an unexpected keyword argument 'registration_date'
+2025-04-10 22:55:32,892 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 22:55:32] "[35m[1mPOST /api/v1/register/user HTTP/1.1[0m" 500 -
+2025-04-10 22:56:31,599 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sanda\\Desktop\\dev\\project\\Protocol\\implementaation\\Registration_server\\app\\register.py', reloading
+2025-04-10 22:56:31,691 - werkzeug - INFO -  * Restarting with stat
+2025-04-10 22:56:32,338 - app - INFO - Starting Flask application
+2025-04-10 22:56:32,379 - app.register - INFO - Registration Center initialized
+2025-04-10 22:56:32,418 - werkzeug - WARNING -  * Debugger is active!
+2025-04-10 22:56:32,425 - werkzeug - INFO -  * Debugger PIN: 747-287-019
+2025-04-10 22:56:37,786 - app.register - ERROR - Error registering user ANHBCLEJNDKJnjdkNNjnjHghbhjbHJBh: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2025-04-10 22:56:37,787 - app.routes - ERROR - Error in user registration endpoint: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2025-04-10 22:56:37,787 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 22:56:37] "[35m[1mPOST /api/v1/register/user HTTP/1.1[0m" 500 -
+2025-04-10 22:57:33,677 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sanda\\Desktop\\dev\\project\\Protocol\\implementaation\\Registration_server\\app\\register.py', reloading
+2025-04-10 22:57:33,767 - werkzeug - INFO -  * Restarting with stat
+2025-04-10 22:57:34,462 - app - INFO - Starting Flask application
+2025-04-10 22:57:34,503 - app.register - INFO - Registration Center initialized
+2025-04-10 22:57:34,553 - werkzeug - WARNING -  * Debugger is active!
+2025-04-10 22:57:34,560 - werkzeug - INFO -  * Debugger PIN: 747-287-019
+2025-04-10 22:57:41,898 - app.register - INFO - User ANHBCLEJNDKJnjdkNNjnjHghbhjbHJBh registered successfully
+2025-04-10 22:57:41,899 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2025 22:57:41] "POST /api/v1/register/user HTTP/1.1" 200 -
